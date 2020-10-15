@@ -1,0 +1,9 @@
+package com.myspace.altaprod;
+
+import java.lang.Number;
+
+rule "Prueba"
+	dialect "mvel"
+	when
+	then
+end
